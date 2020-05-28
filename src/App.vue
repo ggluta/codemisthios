@@ -1,7 +1,6 @@
 /* eslint-disable import/extensions */
 <template>
   <div id="app">
-    <div>Test</div>
     <lottie-player
       class="lottie-animtation"
       autoplay
