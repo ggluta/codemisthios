@@ -6,14 +6,7 @@
       autoplay
       loop
       mode="normal"
-      src='https://assets8.lottiefiles.com/packages/lf20_0IwPXY.json'>
-    </lottie-player>
-    <lottie-player
-      class="lottie-animtation"
-      autoplay
-      loop
-      mode="normal"
-      src='https://assets8.lottiefiles.com/packages/lf20_mboj5x.json'>
+      src='https://assets6.lottiefiles.com/packages/lf20_MAiPvC.json'>
     </lottie-player>
   </div>
 </template>
@@ -31,7 +24,7 @@ export default {
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
-  background-color: #FFFF;
+  background-color: #FFFFFF;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
