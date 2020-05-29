@@ -6,7 +6,7 @@
       autoplay
       loop
       mode="normal"
-      src='https://assets6.lottiefiles.com/packages/lf20_MAiPvC.json'>
+      src='https://assets8.lottiefiles.com/packages/lf20_0IwPXY.json'>
     </lottie-player>
     <lottie-player
       class="lottie-animtation"
