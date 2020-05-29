@@ -7,7 +7,14 @@
       loop
       mode="normal"
       src='https://assets6.lottiefiles.com/packages/lf20_MAiPvC.json'>
-</lottie-player>
+    </lottie-player>
+    <lottie-player
+      class="lottie-animtation"
+      autoplay
+      loop
+      mode="normal"
+      src='https://assets8.lottiefiles.com/packages/lf20_mboj5x.json'>
+    </lottie-player>
   </div>
 </template>
 
